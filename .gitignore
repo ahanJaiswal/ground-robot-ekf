@@ -1,0 +1,13 @@
+# Downloaded datasets and generated outputs
+/data/
+/build/
+/results/*
+!/results/.gitkeep
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+.DS_Store
