@@ -2,18 +2,6 @@
 
 A C++ project for ground-robot state estimation using wheel velocities, gyro/IMU measurements, and GPS recordings from the University of Michigan NCLT dataset.
 
-## Current status
-
-The repository contains a buildable C++17 scaffold and a local copy of the first dataset session. Dataset loading, filtering, and evaluation are not implemented yet.
-
-## First deliverable
-
-- Load and inspect the 2012-01-08 NCLT recording.
-- Implement wheel/gyro dead reckoning as a baseline.
-- Implement an extended Kalman filter combining wheel velocity, gyro, and GPS measurements.
-- Plot estimated and reference trajectories and report position error.
-- Document how to build and reproduce the results.
-
 Slip-aware estimation and ROS 2 integration are later extensions.
 
 ## Repository layout
