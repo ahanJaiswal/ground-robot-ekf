@@ -2,8 +2,6 @@
 
 A C++ project for ground-robot state estimation using wheel velocities, gyro/IMU measurements, and GPS recordings from the University of Michigan NCLT dataset.
 
-Slip-aware estimation and ROS 2 integration are later extensions.
-
 ## Repository layout
 
 ```text
